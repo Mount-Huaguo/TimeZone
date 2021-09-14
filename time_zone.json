@@ -225,196 +225,196 @@
   },
   {
     "TZDatabaseName": "America/Adak",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "America/Anchorage",
-    "UTCOffset": "−09:00",
+    "UTCOffset": "-09:00",
     "ZH_CN": "阿拉斯加安克雷奇时间"
   },
   {
     "TZDatabaseName": "America/Anguilla",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Antigua",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Araguaina",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Buenos_Aires",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Catamarca",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/ComodRivadavia",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Cordoba",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Jujuy",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/La_Rioja",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Mendoza",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Rio_Gallegos",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Salta",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/San_Juan",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/San_Luis",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Tucuman",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Argentina/Ushuaia",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Aruba",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Asuncion",
-    "UTCOffset": "−04:00",
+    "UTCOffset": "-04:00",
     "ZH_CN": "亚松森时间"
   },
   {
     "TZDatabaseName": "America/Atikokan",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Atka",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "America/Bahia",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Bahia_Banderas",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Barbados",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Belem",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Belize",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Blanc-Sablon",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Boa_Vista",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Bogota",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "波哥大时间"
   },
   {
     "TZDatabaseName": "America/Boise",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Buenos_Aires",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Cambridge_Bay",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Campo_Grande",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Cancun",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Caracas",
-    "UTCOffset": "−04:00",
+    "UTCOffset": "-04:00",
     "ZH_CN": "加拉加斯时间"
   },
   {
     "TZDatabaseName": "America/Catamarca",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Cayenne",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Cayman",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Chicago",
-    "UTCOffset": "−06:00",
+    "UTCOffset": "-06:00",
     "ZH_CN": "芝加哥时间"
   },
   {
     "TZDatabaseName": "America/Chihuahua",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Coral_Harbour",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Cordoba",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Costa_Rica",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Creston",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Cuiaba",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Curacao",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Danmarkshavn",
@@ -422,498 +422,498 @@
   },
   {
     "TZDatabaseName": "America/Dawson",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Dawson_Creek",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Denver",
-    "UTCOffset": "−07:00",
+    "UTCOffset": "-07:00",
     "ZH_CN": "丹佛时间"
   },
   {
     "TZDatabaseName": "America/Detroit",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "底特律时间"
   },
   {
     "TZDatabaseName": "America/Dominica",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Edmonton",
-    "UTCOffset": "−07:00",
+    "UTCOffset": "-07:00",
     "ZH_CN": "艾德蒙顿时间"
   },
   {
     "TZDatabaseName": "America/Eirunepe",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/El_Salvador",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Ensenada",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "America/Fort_Nelson",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Fort_Wayne",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Fortaleza",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Glace_Bay",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Godthab",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Goose_Bay",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Grand_Turk",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Grenada",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Guadeloupe",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Guatemala",
-    "UTCOffset": "−06:00",
+    "UTCOffset": "-06:00",
     "ZH_CN": "危地马拉时间"
   },
   {
     "TZDatabaseName": "America/Guayaquil",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Guyana",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Halifax",
-    "UTCOffset": "−04:00",
+    "UTCOffset": "-04:00",
     "ZH_CN": "哈里法克斯时间"
   },
   {
     "TZDatabaseName": "America/Havana",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "哈瓦那时间"
   },
   {
     "TZDatabaseName": "America/Hermosillo",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Indiana/Indianapolis",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "印地安纳波利斯时间"
   },
   {
     "TZDatabaseName": "America/Indiana/Knox",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Indiana/Marengo",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Indiana/Petersburg",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Indiana/Tell_City",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Indiana/Vevay",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Indiana/Vincennes",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Indiana/Winamac",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Indianapolis",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "印地安纳波利斯时间"
   },
   {
     "TZDatabaseName": "America/Inuvik",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Iqaluit",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Jamaica",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Jujuy",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Juneau",
-    "UTCOffset": "−09:00"
+    "UTCOffset": "-09:00"
   },
   {
     "TZDatabaseName": "America/Kentucky/Louisville",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Kentucky/Monticello",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Knox_IN",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Kralendijk",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/La_Paz",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Lima",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "利马时间"
   },
   {
     "TZDatabaseName": "America/Los_Angeles",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "America/Louisville",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Lower_Princes",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Maceio",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Managua",
-    "UTCOffset": "−06:00",
+    "UTCOffset": "-06:00",
     "ZH_CN": "马那瓜时间"
   },
   {
     "TZDatabaseName": "America/Manaus",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Marigot",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Martinique",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Matamoros",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Mazatlan",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Mendoza",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Menominee",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Merida",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Metlakatla",
-    "UTCOffset": "−09:00"
+    "UTCOffset": "-09:00"
   },
   {
     "TZDatabaseName": "America/Mexico_City",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Miquelon",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Moncton",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Monterrey",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Montevideo",
-    "UTCOffset": "−03:00",
+    "UTCOffset": "-03:00",
     "ZH_CN": "蒙特维的亚时间"
   },
   {
     "TZDatabaseName": "America/Montreal",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "蒙特利尔时间"
   },
   {
     "TZDatabaseName": "America/Montserrat",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Nassau",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "拿骚时间"
   },
   {
     "TZDatabaseName": "America/New_York",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Nipigon",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Nome",
-    "UTCOffset": "−09:00"
+    "UTCOffset": "-09:00"
   },
   {
     "TZDatabaseName": "America/Noronha",
-    "UTCOffset": "−02:00"
+    "UTCOffset": "-02:00"
   },
   {
     "TZDatabaseName": "America/North_Dakota/Beulah",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/North_Dakota/Center",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/North_Dakota/New_Salem",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Nuuk",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Ojinaga",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Panama",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Pangnirtung",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Paramaribo",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Phoenix",
-    "UTCOffset": "−07:00",
+    "UTCOffset": "-07:00",
     "ZH_CN": "凤凰城时间"
   },
   {
     "TZDatabaseName": "America/Port-au-Prince",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Port_of_Spain",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Porto_Acre",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Porto_Velho",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Puerto_Rico",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Punta_Arenas",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Rainy_River",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Rankin_Inlet",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Recife",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Regina",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Resolute",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Rio_Branco",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Rosario",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Santa_Isabel",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "America/Santarem",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Santiago",
-    "UTCOffset": "−04:00",
+    "UTCOffset": "-04:00",
     "ZH_CN": "圣地亚哥时间"
   },
   {
     "TZDatabaseName": "America/Santo_Domingo",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Sao_Paulo",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "America/Scoresbysund",
-    "UTCOffset": "−01:00"
+    "UTCOffset": "-01:00"
   },
   {
     "TZDatabaseName": "America/Shiprock",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Sitka",
-    "UTCOffset": "−09:00"
+    "UTCOffset": "-09:00"
   },
   {
     "TZDatabaseName": "America/St_Barthelemy",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/St_Johns",
-    "UTCOffset": "−03:30"
+    "UTCOffset": "-03:30"
   },
   {
     "TZDatabaseName": "America/St_Kitts",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/St_Lucia",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/St_Thomas",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/St_Vincent",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Swift_Current",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "America/Tegucigalpa",
-    "UTCOffset": "−06:00",
+    "UTCOffset": "-06:00",
     "ZH_CN": "特古西加尔巴时间"
   },
   {
     "TZDatabaseName": "America/Thule",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Thunder_Bay",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "America/Tijuana",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "America/Toronto",
-    "UTCOffset": "−05:00",
+    "UTCOffset": "-05:00",
     "ZH_CN": "多伦多时间"
   },
   {
     "TZDatabaseName": "America/Tortola",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Vancouver",
-    "UTCOffset": "−08:00",
+    "UTCOffset": "-08:00",
     "ZH_CN": "温哥华时间"
   },
   {
     "TZDatabaseName": "America/Virgin",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "America/Whitehorse",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "America/Winnipeg",
-    "UTCOffset": "−06:00",
+    "UTCOffset": "-06:00",
     "ZH_CN": "温尼伯时间"
   },
   {
     "TZDatabaseName": "America/Yakutat",
-    "UTCOffset": "−09:00"
+    "UTCOffset": "-09:00"
   },
   {
     "TZDatabaseName": "America/Yellowknife",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "Antarctica/Casey",
@@ -941,11 +941,11 @@
   },
   {
     "TZDatabaseName": "Antarctica/Palmer",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "Antarctica/Rothera",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "Antarctica/South_Pole",
@@ -1391,11 +1391,11 @@
   },
   {
     "TZDatabaseName": "Atlantic/Azores",
-    "UTCOffset": "−01:00"
+    "UTCOffset": "-01:00"
   },
   {
     "TZDatabaseName": "Atlantic/Bermuda",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "Atlantic/Canary",
@@ -1403,7 +1403,7 @@
   },
   {
     "TZDatabaseName": "Atlantic/Cape_Verde",
-    "UTCOffset": "−01:00"
+    "UTCOffset": "-01:00"
   },
   {
     "TZDatabaseName": "Atlantic/Faeroe",
@@ -1428,7 +1428,7 @@
   },
   {
     "TZDatabaseName": "Atlantic/South_Georgia",
-    "UTCOffset": "−02:00"
+    "UTCOffset": "-02:00"
   },
   {
     "TZDatabaseName": "Atlantic/St_Helena",
@@ -1436,7 +1436,7 @@
   },
   {
     "TZDatabaseName": "Atlantic/Stanley",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "Australia/ACT",
@@ -1539,51 +1539,51 @@
   },
   {
     "TZDatabaseName": "Brazil/Acre",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "Brazil/DeNoronha",
-    "UTCOffset": "−02:00"
+    "UTCOffset": "-02:00"
   },
   {
     "TZDatabaseName": "Brazil/East",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "Brazil/West",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "Canada/Atlantic",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "Canada/Central",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "Canada/Eastern",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "Canada/Mountain",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "Canada/Newfoundland",
-    "UTCOffset": "−03:30"
+    "UTCOffset": "-03:30"
   },
   {
     "TZDatabaseName": "Canada/Pacific",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "Canada/Saskatchewan",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "Canada/Yukon",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "CET",
@@ -1591,19 +1591,19 @@
   },
   {
     "TZDatabaseName": "Chile/Continental",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "Chile/EasterIsland",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "CST6CDT",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "Cuba",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "EET",
@@ -1619,11 +1619,11 @@
   },
   {
     "TZDatabaseName": "EST",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "EST5EDT",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "Etc/GMT",
@@ -1635,51 +1635,51 @@
   },
   {
     "TZDatabaseName": "Etc/GMT+1",
-    "UTCOffset": "−01:00"
+    "UTCOffset": "-01:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+10",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+11",
-    "UTCOffset": "−11:00"
+    "UTCOffset": "-11:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+12",
-    "UTCOffset": "−12:00"
+    "UTCOffset": "-12:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+2",
-    "UTCOffset": "−02:00"
+    "UTCOffset": "-02:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+3",
-    "UTCOffset": "−03:00"
+    "UTCOffset": "-03:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+4",
-    "UTCOffset": "−04:00"
+    "UTCOffset": "-04:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+5",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+6",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+7",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+8",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "Etc/GMT+9",
-    "UTCOffset": "−09:00"
+    "UTCOffset": "-09:00"
   },
   {
     "TZDatabaseName": "Etc/GMT-0",
@@ -2082,7 +2082,7 @@
   },
   {
     "TZDatabaseName": "HST",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "Iceland",
@@ -2143,7 +2143,7 @@
   },
   {
     "TZDatabaseName": "Jamaica",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "Japan",
@@ -2163,27 +2163,27 @@
   },
   {
     "TZDatabaseName": "Mexico/BajaNorte",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "Mexico/BajaSur",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "Mexico/General",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "MST",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "MST7MDT",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "Navajo",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "NZ",
@@ -2215,7 +2215,7 @@
   },
   {
     "TZDatabaseName": "Pacific/Easter",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "Pacific/Efate",
@@ -2239,11 +2239,11 @@
   },
   {
     "TZDatabaseName": "Pacific/Galapagos",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "Pacific/Gambier",
-    "UTCOffset": "−09:00"
+    "UTCOffset": "-09:00"
   },
   {
     "TZDatabaseName": "Pacific/Guadalcanal",
@@ -2255,12 +2255,12 @@
   },
   {
     "TZDatabaseName": "Pacific/Honolulu",
-    "UTCOffset": "−10:00",
+    "UTCOffset": "-10:00",
     "ZH_CN": "夏威夷檀香山时间"
   },
   {
     "TZDatabaseName": "Pacific/Johnston",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "Pacific/Kiritimati",
@@ -2281,11 +2281,11 @@
   },
   {
     "TZDatabaseName": "Pacific/Marquesas",
-    "UTCOffset": "−09:30"
+    "UTCOffset": "-09:30"
   },
   {
     "TZDatabaseName": "Pacific/Midway",
-    "UTCOffset": "−11:00"
+    "UTCOffset": "-11:00"
   },
   {
     "TZDatabaseName": "Pacific/Nauru",
@@ -2293,7 +2293,7 @@
   },
   {
     "TZDatabaseName": "Pacific/Niue",
-    "UTCOffset": "−11:00"
+    "UTCOffset": "-11:00"
   },
   {
     "TZDatabaseName": "Pacific/Norfolk",
@@ -2305,7 +2305,7 @@
   },
   {
     "TZDatabaseName": "Pacific/Pago_Pago",
-    "UTCOffset": "−11:00"
+    "UTCOffset": "-11:00"
   },
   {
     "TZDatabaseName": "Pacific/Palau",
@@ -2313,7 +2313,7 @@
   },
   {
     "TZDatabaseName": "Pacific/Pitcairn",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "Pacific/Pohnpei",
@@ -2329,7 +2329,7 @@
   },
   {
     "TZDatabaseName": "Pacific/Rarotonga",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "Pacific/Saipan",
@@ -2337,11 +2337,11 @@
   },
   {
     "TZDatabaseName": "Pacific/Samoa",
-    "UTCOffset": "−11:00"
+    "UTCOffset": "-11:00"
   },
   {
     "TZDatabaseName": "Pacific/Tahiti",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "Pacific/Tarawa",
@@ -2381,7 +2381,7 @@
   },
   {
     "TZDatabaseName": "PST8PDT",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "ROC",
@@ -2410,51 +2410,51 @@
   },
   {
     "TZDatabaseName": "US/Alaska",
-    "UTCOffset": "−09:00"
+    "UTCOffset": "-09:00"
   },
   {
     "TZDatabaseName": "US/Aleutian",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "US/Arizona",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "US/Central",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "US/East-Indiana",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "US/Eastern",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "US/Hawaii",
-    "UTCOffset": "−10:00"
+    "UTCOffset": "-10:00"
   },
   {
     "TZDatabaseName": "US/Indiana-Starke",
-    "UTCOffset": "−06:00"
+    "UTCOffset": "-06:00"
   },
   {
     "TZDatabaseName": "US/Michigan",
-    "UTCOffset": "−05:00"
+    "UTCOffset": "-05:00"
   },
   {
     "TZDatabaseName": "US/Mountain",
-    "UTCOffset": "−07:00"
+    "UTCOffset": "-07:00"
   },
   {
     "TZDatabaseName": "US/Pacific",
-    "UTCOffset": "−08:00"
+    "UTCOffset": "-08:00"
   },
   {
     "TZDatabaseName": "US/Samoa",
-    "UTCOffset": "−11:00"
+    "UTCOffset": "-11:00"
   },
   {
     "TZDatabaseName": "UTC",
